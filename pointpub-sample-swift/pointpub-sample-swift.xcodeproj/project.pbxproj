@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		6210BE602E6FF7140022AFC1 /* PointPubSDK in Frameworks */ = {isa = PBXBuildFile; productRef = 6210BE5F2E6FF7140022AFC1 /* PointPubSDK */; };
+		6210BE732E6FFCFF0022AFC1 /* PointPubSDK in Frameworks */ = {isa = PBXBuildFile; productRef = 6210BE722E6FFCFF0022AFC1 /* PointPubSDK */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -40,7 +40,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				6210BE602E6FF7140022AFC1 /* PointPubSDK in Frameworks */,
+				6210BE732E6FFCFF0022AFC1 /* PointPubSDK in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -83,7 +83,7 @@
 			);
 			name = "pointpub-sample-swift";
 			packageProductDependencies = (
-				6210BE5F2E6FF7140022AFC1 /* PointPubSDK */,
+				6210BE722E6FFCFF0022AFC1 /* PointPubSDK */,
 			);
 			productName = "pointpub-sample-swift";
 			productReference = 62EB0A612E6E9B8800D30D65 /* pointpub-sample-swift.app */;
@@ -114,7 +114,7 @@
 			mainGroup = 62EB0A582E6E9B8800D30D65;
 			minimizedProjectReferenceProxies = 1;
 			packageReferences = (
-				6210BE5E2E6FF7140022AFC1 /* XCRemoteSwiftPackageReference "pointpub-ios-release" */,
+				6210BE712E6FFCFF0022AFC1 /* XCRemoteSwiftPackageReference "pointpub-ios-release" */,
 			);
 			preferredProjectObjectVersion = 77;
 			productRefGroup = 62EB0A622E6E9B8800D30D65 /* Products */;
@@ -154,6 +154,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = "";
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "pointpub-sample-swift/Info.plist";
 				INFOPLIST_KEY_NSUserTrackingUsageDescription = "맞춤형 광고 제공을 위해 사용자 데이터 추적 권한이 필요합니다.";
@@ -182,6 +183,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = "";
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "pointpub-sample-swift/Info.plist";
 				INFOPLIST_KEY_NSUserTrackingUsageDescription = "맞춤형 광고 제공을 위해 사용자 데이터 추적 권한이 필요합니다.";
@@ -346,20 +348,20 @@
 /* End XCConfigurationList section */
 
 /* Begin XCRemoteSwiftPackageReference section */
-		6210BE5E2E6FF7140022AFC1 /* XCRemoteSwiftPackageReference "pointpub-ios-release" */ = {
+		6210BE712E6FFCFF0022AFC1 /* XCRemoteSwiftPackageReference "pointpub-ios-release" */ = {
 			isa = XCRemoteSwiftPackageReference;
 			repositoryURL = "https://github.com/adxcorp/pointpub-ios-release";
 			requirement = {
-				kind = upToNextMajorVersion;
-				minimumVersion = 0.0.2;
+				branch = develop;
+				kind = branch;
 			};
 		};
 /* End XCRemoteSwiftPackageReference section */
 
 /* Begin XCSwiftPackageProductDependency section */
-		6210BE5F2E6FF7140022AFC1 /* PointPubSDK */ = {
+		6210BE722E6FFCFF0022AFC1 /* PointPubSDK */ = {
 			isa = XCSwiftPackageProductDependency;
-			package = 6210BE5E2E6FF7140022AFC1 /* XCRemoteSwiftPackageReference "pointpub-ios-release" */;
+			package = 6210BE712E6FFCFF0022AFC1 /* XCRemoteSwiftPackageReference "pointpub-ios-release" */;
 			productName = PointPubSDK;
 		};
 /* End XCSwiftPackageProductDependency section */
