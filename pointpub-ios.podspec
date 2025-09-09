@@ -8,5 +8,5 @@ Pod::Spec.new do |s|
   s.author = "Neptune Company"
   s.source = { :http => "https://github.com/adxcorp/pointpub-ios-release/archive/refs/tags/#{s.version}.tar.gz" }
   s.ios.deployment_target = '13.0'
-  s.ios.vendored_framework = 'PointPub/PointPub.xcframework'
+  s.ios.vendored_framework = 'PointPub/PointPubSDK.xcframework'
 end
