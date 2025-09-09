@@ -11,23 +11,15 @@ let package = Package(
     products: [
         .library(
             name: "PointPubSDK",
-            targets: ["PointPubTarget"])
+            targets: ["PointPubSDKBinary"])
     ],
     dependencies: [
     ],
     targets: [
 	.binaryTarget(
-            name: "PointPubSDK",
+            name: "PointPubSDKBinary",
             url: "https://github.com/adxcorp/pointpub-ios-release/releases/download/0.0.1/PointPubSDK.xcframework.zip",
             checksum: "15145e9c2b0e18cf28289de7f01da4a5cd47830ab7b43a8dddb65d09f3215720"
-        ),
-	.target(
-            name: "PointPubTarget",
-            dependencies: [
-                .target(name: "PointPubSDK"),
-            ],
-            path: "Framework/Dependency",
-            exclude: ["../../Sample"]
         ),
     ]
 )
