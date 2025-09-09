@@ -23,7 +23,7 @@ let package = Package(
 	.target(
             name: "PointPubTarget",
             dependencies: [
-                .target(name: "pointpub-binary-target"),
+                .target(name: "PointPubSDK"),
             ],
             path: "Framework/Dependency",
             exclude: ["../../pointpub-sample-swift", "../../pointpub-sample-objc"]
