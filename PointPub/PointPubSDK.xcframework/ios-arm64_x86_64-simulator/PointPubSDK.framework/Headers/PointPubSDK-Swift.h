@@ -311,19 +311,21 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 @class NSNumber;
 SWIFT_CLASS("_TtC11PointPubSDK8PointPub")
 @interface PointPub : NSObject
+/// PointPub SDK의 이벤트를 전달받을 델리게이트 객체입니다.
+/// 오퍼월 화면의 열림/닫힘 이벤트를 수신하려면 이 프로퍼티에 델리게이트를 할당하세요.
 SWIFT_CLASS_PROPERTY(@property (nonatomic, class, weak) id <PointPubDelegate> _Nullable delegate;)
 + (id <PointPubDelegate> _Nullable)delegate SWIFT_WARN_UNUSED_RESULT;
 + (void)setDelegate:(id <PointPubDelegate> _Nullable)value;
-/// 포인트펍에서 사용할 앱 아이디를 설정합니다.
+/// PointPub SDK에서 사용할 앱 아이디를 설정합니다.
 /// \param with appId 앱 아이디
 ///
 + (void)setAppIdWith:(NSString * _Nonnull)appId;
-/// 포인트펍에서 사용할 사용자 아이디를 설정합니다.
+/// PointPub SDK에서 사용할 사용자 아이디를 설정합니다.
 /// \param with userId 사용자 아이디
 ///
 + (void)setUserIdWith:(NSString * _Nonnull)userId;
-/// 앱 아이디와 사용자 아이디 설정 이후 포인트펍을 시작할 때 호출합니다.
-/// \param from viewController 포인트펍을 호출 할 UIViewController
+/// 앱 아이디와 사용자 아이디 설정 이후 PointPub SDK를 시작할 때 호출합니다.
+/// \param from viewController PointPub SDK를 호출 할 UIViewController
 ///
 + (void)startOfferwallFrom:(UIViewController * _Nonnull)viewController;
 /// 참여 완료된 캠페인 정보를 조회합니다.
@@ -397,10 +399,14 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, weak) id <PointPubDelegate> _N
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
+/// PointPub SDK의 이벤트를 전달하는 델리게이트 프로토콜입니다.
+/// 이 프로토콜을 채택하여 오퍼월 화면의 열림/닫힘 등 이벤트를 처리할 수 있습니다.
 SWIFT_PROTOCOL("_TtP11PointPubSDK16PointPubDelegate_")
 @protocol PointPubDelegate
 @optional
+/// 오퍼월 화면이 열릴 때 호출됩니다.
 - (void)onOpenOfferwall;
+/// 오퍼월 화면이 닫힐 때 호출됩니다.
 - (void)onCloseOfferwall;
 @end
 
@@ -725,19 +731,21 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 @class NSNumber;
 SWIFT_CLASS("_TtC11PointPubSDK8PointPub")
 @interface PointPub : NSObject
+/// PointPub SDK의 이벤트를 전달받을 델리게이트 객체입니다.
+/// 오퍼월 화면의 열림/닫힘 이벤트를 수신하려면 이 프로퍼티에 델리게이트를 할당하세요.
 SWIFT_CLASS_PROPERTY(@property (nonatomic, class, weak) id <PointPubDelegate> _Nullable delegate;)
 + (id <PointPubDelegate> _Nullable)delegate SWIFT_WARN_UNUSED_RESULT;
 + (void)setDelegate:(id <PointPubDelegate> _Nullable)value;
-/// 포인트펍에서 사용할 앱 아이디를 설정합니다.
+/// PointPub SDK에서 사용할 앱 아이디를 설정합니다.
 /// \param with appId 앱 아이디
 ///
 + (void)setAppIdWith:(NSString * _Nonnull)appId;
-/// 포인트펍에서 사용할 사용자 아이디를 설정합니다.
+/// PointPub SDK에서 사용할 사용자 아이디를 설정합니다.
 /// \param with userId 사용자 아이디
 ///
 + (void)setUserIdWith:(NSString * _Nonnull)userId;
-/// 앱 아이디와 사용자 아이디 설정 이후 포인트펍을 시작할 때 호출합니다.
-/// \param from viewController 포인트펍을 호출 할 UIViewController
+/// 앱 아이디와 사용자 아이디 설정 이후 PointPub SDK를 시작할 때 호출합니다.
+/// \param from viewController PointPub SDK를 호출 할 UIViewController
 ///
 + (void)startOfferwallFrom:(UIViewController * _Nonnull)viewController;
 /// 참여 완료된 캠페인 정보를 조회합니다.
@@ -811,10 +819,14 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, weak) id <PointPubDelegate> _N
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
+/// PointPub SDK의 이벤트를 전달하는 델리게이트 프로토콜입니다.
+/// 이 프로토콜을 채택하여 오퍼월 화면의 열림/닫힘 등 이벤트를 처리할 수 있습니다.
 SWIFT_PROTOCOL("_TtP11PointPubSDK16PointPubDelegate_")
 @protocol PointPubDelegate
 @optional
+/// 오퍼월 화면이 열릴 때 호출됩니다.
 - (void)onOpenOfferwall;
+/// 오퍼월 화면이 닫힐 때 호출됩니다.
 - (void)onCloseOfferwall;
 @end
 
