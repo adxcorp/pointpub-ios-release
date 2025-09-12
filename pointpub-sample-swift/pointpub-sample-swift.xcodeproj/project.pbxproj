@@ -6,6 +6,10 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		6210BE732E6FFCFF0022AFC1 /* PointPubSDK in Frameworks */ = {isa = PBXBuildFile; productRef = 6210BE722E6FFCFF0022AFC1 /* PointPubSDK */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
 		62EB0A612E6E9B8800D30D65 /* pointpub-sample-swift.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "pointpub-sample-swift.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -36,6 +40,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6210BE732E6FFCFF0022AFC1 /* PointPubSDK in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -78,6 +83,7 @@
 			);
 			name = "pointpub-sample-swift";
 			packageProductDependencies = (
+				6210BE722E6FFCFF0022AFC1 /* PointPubSDK */,
 			);
 			productName = "pointpub-sample-swift";
 			productReference = 62EB0A612E6E9B8800D30D65 /* pointpub-sample-swift.app */;
@@ -107,6 +113,9 @@
 			);
 			mainGroup = 62EB0A582E6E9B8800D30D65;
 			minimizedProjectReferenceProxies = 1;
+			packageReferences = (
+				6210BE712E6FFCFF0022AFC1 /* XCRemoteSwiftPackageReference "pointpub-ios-release" */,
+			);
 			preferredProjectObjectVersion = 77;
 			productRefGroup = 62EB0A622E6E9B8800D30D65 /* Products */;
 			projectDirPath = "";
@@ -145,8 +154,11 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = "";
+				ENABLE_USER_SCRIPT_SANDBOXING = NO;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "pointpub-sample-swift/Info.plist";
+				INFOPLIST_KEY_NSUserTrackingUsageDescription = "맞춤형 광고 제공을 위해 사용자 데이터 추적 권한이 필요합니다.";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -157,7 +169,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "neptune.pointpub-sample-swift";
+				PRODUCT_BUNDLE_IDENTIFIER = kr.pointpub.sample;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -172,8 +184,11 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = "";
+				ENABLE_USER_SCRIPT_SANDBOXING = NO;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "pointpub-sample-swift/Info.plist";
+				INFOPLIST_KEY_NSUserTrackingUsageDescription = "맞춤형 광고 제공을 위해 사용자 데이터 추적 권한이 필요합니다.";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -184,7 +199,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "neptune.pointpub-sample-swift";
+				PRODUCT_BUNDLE_IDENTIFIER = kr.pointpub.sample;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -333,6 +348,25 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		6210BE712E6FFCFF0022AFC1 /* XCRemoteSwiftPackageReference "pointpub-ios-release" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/adxcorp/pointpub-ios-release";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 0.0.6;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		6210BE722E6FFCFF0022AFC1 /* PointPubSDK */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 6210BE712E6FFCFF0022AFC1 /* XCRemoteSwiftPackageReference "pointpub-ios-release" */;
+			productName = PointPubSDK;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = 62EB0A592E6E9B8800D30D65 /* Project object */;
 }
