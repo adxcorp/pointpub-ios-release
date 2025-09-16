@@ -347,7 +347,7 @@
 			repositoryURL = "https://github.com/adxcorp/pointpub-ios-release";
 			requirement = {
 				kind = upToNextMajorVersion;
-				minimumVersion = 0.0.8;
+				minimumVersion = 0.0.9;
 			};
 		};
 /* End XCRemoteSwiftPackageReference section */
