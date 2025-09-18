@@ -1,7 +1,7 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 6.2 effective-5.10 (swiftlang-6.2.0.19.9 clang-1700.3.19.1)
+// swift-compiler-version: Apple Swift version 6.1.2 effective-5.10 (swiftlang-6.1.2.1.2 clang-1700.0.13.5)
 // swift-module-flags: -target arm64-apple-ios13-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-experimental-feature DebugDescriptionMacro -enable-bare-slash-regex -module-name PointPubSDK
-// swift-module-flags-ignorable: -no-verify-emitted-module-interface -formal-cxx-interoperability-mode=off -interface-compiler-version 6.2
+// swift-module-flags-ignorable: -no-verify-emitted-module-interface -interface-compiler-version 6.1.2
 import AdSupport
 import AppTrackingTransparency
 import Combine
@@ -36,17 +36,11 @@ import os
   @objc public static func setAppId(with appId: Swift.String)
   @objc public static func setUserId(with userId: Swift.String)
   @objc public static func startOfferwall(from viewController: UIKit.UIViewController)
-  #if compiler(>=5.3) && $NonescapableTypes
   @objc public static func getCompletedCampaign(_ completion: @escaping (Foundation.NSString?, Foundation.NSError?) -> Swift.Void)
-  #endif
   public static func getCompletedCampaign() async throws -> Swift.String
-  #if compiler(>=5.3) && $NonescapableTypes
   @objc public static func getVirtualPoint(_ completion: @escaping (Foundation.NSString?, Foundation.NSNumber?, Foundation.NSError?) -> Swift.Void)
-  #endif
   public static func getVirtualPoint() async throws -> (pointName: Swift.String, point: Swift.Int)
-  #if compiler(>=5.3) && $NonescapableTypes
   @objc public static func spendVirtualPoint(point: Foundation.NSNumber, _ completion: @escaping (Foundation.NSString?, Foundation.NSNumber?, Foundation.NSError?) -> Swift.Void)
-  #endif
   public static func spendVirtualPoint(point: Swift.Int) async throws -> (pointName: Swift.String, point: Swift.Int)
   @objc public static func isTrackingEnabled() -> Swift.Bool
   @objc public static func requestTrackingPermission(_ completion: @escaping (Swift.Bool) -> Swift.Void)
