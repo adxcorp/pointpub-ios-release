@@ -14,11 +14,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		S0nKOies8W6C7XzM2IKankp3j5Q=
+		l9nf22dtCmIlm8A9TBmnudb5+gk=
 		</data>
 		<key>Modules/PointPubSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		5jhcQDOlb2u9Kuu9bxUb8fljXjg=
+		CqOKa+A6toFWkrZ27/FXh99olRw=
 		</data>
 		<key>Modules/PointPubSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -34,11 +34,11 @@
 		</data>
 		<key>Modules/PointPubSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		mAOgc8Z2MRM9+OBRrOA40Oo25N8=
+		0Q9NG2x/BQDXvEa7bQJk79UIHhU=
 		</data>
 		<key>Modules/PointPubSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		5jhcQDOlb2u9Kuu9bxUb8fljXjg=
+		CqOKa+A6toFWkrZ27/FXh99olRw=
 		</data>
 		<key>Modules/PointPubSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Modules/PointPubSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		w1qj7A8J3UeKPoLy6V0uKUNrLW8=
+		Ve2MadSyz31KfvSLrWympffMkPY=
 		</data>
 		<key>PrivacyInfo.xcprivacy</key>
 		<data>
@@ -81,7 +81,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			8+LQeAfD3Pod4qCQUZ1w0jxUtTN3X/idlGRBf+kCikY=
+			/AbzPjJ5Jut9EBVmBnXMq++IpV0hHpPIbefxpUb3430=
 			</data>
 		</dict>
 		<key>Modules/PointPubSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -109,14 +109,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			gaOGeqlVnrlh+YBOgQ5CK2lwOnpTEtNIvvHSJMUgrvc=
+			UWq5vtjbaSBYNArVuEsOcQZXg/ddJ7t5zDduFUnPK40=
 			</data>
 		</dict>
 		<key>Modules/PointPubSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			8+LQeAfD3Pod4qCQUZ1w0jxUtTN3X/idlGRBf+kCikY=
+			/AbzPjJ5Jut9EBVmBnXMq++IpV0hHpPIbefxpUb3430=
 			</data>
 		</dict>
 		<key>Modules/PointPubSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -144,7 +144,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			zjokbnltdlJTPAhJq1nxWo09BSp/2w0a/R4DMCjD6g0=
+			j3/4fi/0RnVHsqrRqPUkmEWelSUduxlJN5EJRvMnxPA=
 			</data>
 		</dict>
 		<key>PrivacyInfo.xcprivacy</key>
