@@ -14,15 +14,15 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		l9nf22dtCmIlm8A9TBmnudb5+gk=
+		btl/apKQYmRlvputETAzT8gn68I=
 		</data>
 		<key>Modules/PointPubSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		CqOKa+A6toFWkrZ27/FXh99olRw=
+		f1xiGqxj1d3ZJWAfwYYKlfm47oQ=
 		</data>
 		<key>Modules/PointPubSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		RoHzJcUKtDHUsMWOKqFz0KX4tRY=
+		JVzrzg/2QLrUzmBMIKpcF+hazYM=
 		</data>
 		<key>Modules/PointPubSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -30,19 +30,19 @@
 		</data>
 		<key>Modules/PointPubSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		RoHzJcUKtDHUsMWOKqFz0KX4tRY=
+		JVzrzg/2QLrUzmBMIKpcF+hazYM=
 		</data>
 		<key>Modules/PointPubSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		0Q9NG2x/BQDXvEa7bQJk79UIHhU=
+		Wl9h4pIDonjqkfQgU8BwRNqBvQ4=
 		</data>
 		<key>Modules/PointPubSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		CqOKa+A6toFWkrZ27/FXh99olRw=
+		f1xiGqxj1d3ZJWAfwYYKlfm47oQ=
 		</data>
 		<key>Modules/PointPubSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		XJ9jlvflbNTtirMGl6Hba+1BuIA=
+		fSWpkeroMV4VyhLQnEYV+lSGvT0=
 		</data>
 		<key>Modules/PointPubSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -50,15 +50,15 @@
 		</data>
 		<key>Modules/PointPubSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		XJ9jlvflbNTtirMGl6Hba+1BuIA=
+		fSWpkeroMV4VyhLQnEYV+lSGvT0=
 		</data>
 		<key>Modules/PointPubSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		Ve2MadSyz31KfvSLrWympffMkPY=
+		c1UocNZ9cyDVadzbm3PSKp184HA=
 		</data>
 		<key>PrivacyInfo.xcprivacy</key>
 		<data>
-		g+clFYbIveu081hnjBRsErsAuWk=
+		0Hb2qA5loNsxV4hf/OXH9cFQG40=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -81,14 +81,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			/AbzPjJ5Jut9EBVmBnXMq++IpV0hHpPIbefxpUb3430=
+			/N8PQ+PkmreOGy7dJx8gNC5tGAymh7PG6miRT6tMkWE=
 			</data>
 		</dict>
 		<key>Modules/PointPubSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			SFHiI4Ho0vWetUdz8MJ1sDhyPjQMTJOXLxzaSeObZmA=
+			l3tBGzHl/tFiWx9ms0ZSG/bdFx/L4Wbu8NqSRBHk8wc=
 			</data>
 		</dict>
 		<key>Modules/PointPubSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -102,28 +102,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			SFHiI4Ho0vWetUdz8MJ1sDhyPjQMTJOXLxzaSeObZmA=
+			l3tBGzHl/tFiWx9ms0ZSG/bdFx/L4Wbu8NqSRBHk8wc=
 			</data>
 		</dict>
 		<key>Modules/PointPubSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			UWq5vtjbaSBYNArVuEsOcQZXg/ddJ7t5zDduFUnPK40=
+			mnj2aMZoSP5BpVWDjfaUZby+rl9BdJ2W4sPPx6iyyw8=
 			</data>
 		</dict>
 		<key>Modules/PointPubSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/AbzPjJ5Jut9EBVmBnXMq++IpV0hHpPIbefxpUb3430=
+			/N8PQ+PkmreOGy7dJx8gNC5tGAymh7PG6miRT6tMkWE=
 			</data>
 		</dict>
 		<key>Modules/PointPubSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			GYECHEjQBN6lKr8emaUjMtFgRa/D0R4sXjnUKlvpkkc=
+			AnFYb54s0ju1+5fZk7WeWyyYZcaWI41vwar3S5/IMaQ=
 			</data>
 		</dict>
 		<key>Modules/PointPubSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -137,21 +137,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			GYECHEjQBN6lKr8emaUjMtFgRa/D0R4sXjnUKlvpkkc=
+			AnFYb54s0ju1+5fZk7WeWyyYZcaWI41vwar3S5/IMaQ=
 			</data>
 		</dict>
 		<key>Modules/PointPubSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			j3/4fi/0RnVHsqrRqPUkmEWelSUduxlJN5EJRvMnxPA=
+			ztmx59IIdRTwj8V0WRHc5jkgCRA9JLI/9zcFohxVHuc=
 			</data>
 		</dict>
 		<key>PrivacyInfo.xcprivacy</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			pXr/9HZKv70Rmw5DPkw0qGx9ocg0qifd9QvyAPjFWsk=
+			UzVpS0CwH49AjPGBqGu7ta+emGtktDxeF8KJ5ez0Gr0=
 			</data>
 		</dict>
 	</dict>
