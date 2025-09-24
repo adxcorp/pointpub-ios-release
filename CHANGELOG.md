@@ -1,6 +1,9 @@
 # Change log
 
-## Version 1.0.1 (2025/09/19)
+## Version 1.0.2 (2025/09/24)
+- Completed Campaign Response 타입 수정
+
+## Version 1.0.1 (2025/09/24)
 - PrivacyInfo 수정
 
 ## Version 1.0.0 (2025/09/18)
