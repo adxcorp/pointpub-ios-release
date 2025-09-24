@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name = "pointpub-ios"
-  s.version = "1.0.1"
+  s.version = "1.0.2"
   s.summary = "PointPub SDK for iOS"
   s.description = "PointPub SDK for iOS"
   s.homepage = "https://neptunecompany.kr/"

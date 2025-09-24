@@ -14,11 +14,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		btl/apKQYmRlvputETAzT8gn68I=
+		4KDxbbXet5wxczQ9yjgCYpAWB0g=
 		</data>
 		<key>Modules/PointPubSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		ntHz7JcMlxx0Dk1YU0jKnr6kBZk=
+		5t/eEuzKB8yB3MXwM1pI+cOfb68=
 		</data>
 		<key>Modules/PointPubSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -34,11 +34,11 @@
 		</data>
 		<key>Modules/PointPubSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		QoBcEhY0TKqPB1dWnZd1c5qfDRk=
+		2LumdqpMf6GhPw/O7OxeTHM5ycs=
 		</data>
 		<key>Modules/PointPubSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		ntHz7JcMlxx0Dk1YU0jKnr6kBZk=
+		5t/eEuzKB8yB3MXwM1pI+cOfb68=
 		</data>
 		<key>Modules/PointPubSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Modules/PointPubSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		/KHejafkl2KLTX9Rt9l5V79i1Sw=
+		3wIWAiibFBSq8JV4cp0qdGxyngQ=
 		</data>
 		<key>PrivacyInfo.xcprivacy</key>
 		<data>
@@ -81,7 +81,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			uUVGbJvvX+WkYiOi7czFEQCP96f+208qJUek1wyuwYA=
+			FsrKn5mUKM8JdQD/XpSeFO+4C2nnejCPm7VpfRV+rHs=
 			</data>
 		</dict>
 		<key>Modules/PointPubSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -109,14 +109,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			6eEvNdeAdCclEomJ6DXIqKDf21IX0RyykDLcoEf3ZIw=
+			MuqfojjvcTFsqOZE/7AeT0aRJqfd5Yd3OKmtL7t2KLs=
 			</data>
 		</dict>
 		<key>Modules/PointPubSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			uUVGbJvvX+WkYiOi7czFEQCP96f+208qJUek1wyuwYA=
+			FsrKn5mUKM8JdQD/XpSeFO+4C2nnejCPm7VpfRV+rHs=
 			</data>
 		</dict>
 		<key>Modules/PointPubSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -144,7 +144,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			XcBJoMkesB5TL5SHlJy3fGsEbvNZyNvzqgWL+viJFUA=
+			zBQT9pDGjxymMAYtuMnnCpYl7upR3XTi9eAqrVod8+E=
 			</data>
 		</dict>
 		<key>PrivacyInfo.xcprivacy</key>
