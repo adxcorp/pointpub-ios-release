@@ -27,4 +27,4 @@ $ pod install --repo-update
 3. 사용하려는 버전을 선택하고 "Add Package" 버튼을 클릭하여 SDK 설치를 완료합니다.
 
 ## SDK 연동
-SDK 연동은 [연동가이드](https://app.gitbook.com/o/XncdJBqneLE1piJ2GEvq/s/0tO0eyG5jX6pAANtcDq7/ios/sdk-integration)에서 확인할 수 있습니다.
+SDK 연동은 [연동가이드](https://docs.pointpub.kr/ios/sdk-integration)에서 확인할 수 있습니다.
