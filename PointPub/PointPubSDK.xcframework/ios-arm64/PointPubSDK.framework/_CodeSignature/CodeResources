@@ -14,15 +14,15 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		7zB/xGzox84ERlpjSYS8i+Nyd/A=
+		/4FYkuB3Zsa5vO3RfC+EyFleiPQ=
 		</data>
 		<key>Modules/PointPubSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		pehWH3ztTd3nA8rqHqIvhI5l2XY=
+		kZMEK5E/liJrDip5QUOX/2PfbOE=
 		</data>
 		<key>Modules/PointPubSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		U/qoZlJE0cEa+J8cI2cIgLgtgL0=
+		dtVtaTYFHxvh4F69y/YuxXmNzNo=
 		</data>
 		<key>Modules/PointPubSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -30,15 +30,15 @@
 		</data>
 		<key>Modules/PointPubSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		U/qoZlJE0cEa+J8cI2cIgLgtgL0=
+		dtVtaTYFHxvh4F69y/YuxXmNzNo=
 		</data>
 		<key>Modules/PointPubSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		0ORofGB48Dn/5LNkYjk4eWAp2y0=
+		quk+7yapwR/rpDW8YAWXxpYYT/g=
 		</data>
 		<key>PrivacyInfo.xcprivacy</key>
 		<data>
-		g+clFYbIveu081hnjBRsErsAuWk=
+		0Hb2qA5loNsxV4hf/OXH9cFQG40=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -61,14 +61,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			z1ojfG1yQyZ9wK0dADf3gypC3mu+31GaTUCmpu4gRDI=
+			Pc8XswtNvmPXqs2Ys3Rsfm2uV2dcPhqcmGWJA2s3OdY=
 			</data>
 		</dict>
 		<key>Modules/PointPubSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			3UrbA2PKvIXSBaqSDg0ePbJatXuwBvmlKRWF3kTRKUc=
+			KAnighWAUG9fVDtQkNQqp4NP/0Jqnj1vP0kIQC4hzPE=
 			</data>
 		</dict>
 		<key>Modules/PointPubSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -82,21 +82,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3UrbA2PKvIXSBaqSDg0ePbJatXuwBvmlKRWF3kTRKUc=
+			KAnighWAUG9fVDtQkNQqp4NP/0Jqnj1vP0kIQC4hzPE=
 			</data>
 		</dict>
 		<key>Modules/PointPubSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			vZ3TqXsifY7fI7Icmq2SP3Ebbbj3fVFdeFu+FOY6tEI=
+			PN4qfbKO/Dgl6mnFeuVRzJgg0iIoKom3sGxb9d/TzfM=
 			</data>
 		</dict>
 		<key>PrivacyInfo.xcprivacy</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			pXr/9HZKv70Rmw5DPkw0qGx9ocg0qifd9QvyAPjFWsk=
+			UzVpS0CwH49AjPGBqGu7ta+emGtktDxeF8KJ5ez0Gr0=
 			</data>
 		</dict>
 	</dict>

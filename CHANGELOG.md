@@ -1,5 +1,8 @@
 # Change log
 
+## Version 1.0.1 (2025/09/19)
+- PrivacyInfo 수정
+
 ## Version 1.0.0 (2025/09/18)
 - 고객센터 UI 개선
 - 배너 스크롤 UI 개선
