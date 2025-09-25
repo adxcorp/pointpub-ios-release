@@ -1,8 +1,7 @@
 # Change log
 
 ## Version 1.0.3 (2025/09/25)
-- PointPub UI 오류 수정
-- 가상 포인트 데이터 타입 수정
+- PointPub SDK UI 수정
 
 ## Version 1.0.2 (2025/09/24)
 - Completed Campaign Response 타입 수정
