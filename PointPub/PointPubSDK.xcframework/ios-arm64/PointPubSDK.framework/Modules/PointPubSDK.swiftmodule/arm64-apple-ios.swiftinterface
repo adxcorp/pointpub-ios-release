@@ -24,7 +24,7 @@ import _StringProcessing
 import _SwiftConcurrencyShims
 import os
 @frozen public enum VirtualPointResult {
-  case success(Swift.String, Swift.Int)
+  case success(Swift.String, Swift.Double)
   case fail(Swift.String, Swift.Int)
 }
 @objc public protocol PointPubDelegate {
@@ -39,9 +39,9 @@ import os
   @objc public static func getCompletedCampaign(_ completion: @escaping (Foundation.NSString?, Foundation.NSError?) -> Swift.Void)
   public static func getCompletedCampaign() async throws -> Swift.String
   @objc public static func getVirtualPoint(_ completion: @escaping (Foundation.NSString?, Foundation.NSNumber?, Foundation.NSError?) -> Swift.Void)
-  public static func getVirtualPoint() async throws -> (pointName: Swift.String, point: Swift.Int)
+  public static func getVirtualPoint() async throws -> (pointName: Swift.String, point: Swift.Double)
   @objc public static func spendVirtualPoint(point: Foundation.NSNumber, _ completion: @escaping (Foundation.NSString?, Foundation.NSNumber?, Foundation.NSError?) -> Swift.Void)
-  public static func spendVirtualPoint(point: Swift.Int) async throws -> (pointName: Swift.String, point: Swift.Int)
+  public static func spendVirtualPoint(point: Swift.Double) async throws -> (pointName: Swift.String, point: Swift.Double)
   @objc public static func isTrackingEnabled() -> Swift.Bool
   @objc public static func requestTrackingPermission(_ completion: @escaping (Swift.Bool) -> Swift.Void)
   @objc public static func enableLogTrace()
