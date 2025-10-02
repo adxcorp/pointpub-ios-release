@@ -14,15 +14,15 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		OHfqhgintnMFu7zG4kC7qPKXn6I=
+		sGc0OhdCHLbmKL0L1yuCWo9y8Fs=
 		</data>
 		<key>Modules/PointPubSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		ESw0lN/93WPHJWMFcIvR8xiFaXc=
+		KekqNyC1h8M+htSCrSouHUZdW3w=
 		</data>
 		<key>Modules/PointPubSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		dtVtaTYFHxvh4F69y/YuxXmNzNo=
+		U/qoZlJE0cEa+J8cI2cIgLgtgL0=
 		</data>
 		<key>Modules/PointPubSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -30,11 +30,11 @@
 		</data>
 		<key>Modules/PointPubSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		dtVtaTYFHxvh4F69y/YuxXmNzNo=
+		U/qoZlJE0cEa+J8cI2cIgLgtgL0=
 		</data>
 		<key>Modules/PointPubSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		+FvTsp/FkbZGSgNZKFGqlCpGOW4=
+		/da4MEjdkRYWCihtHJSb7kYgFIE=
 		</data>
 		<key>PrivacyInfo.xcprivacy</key>
 		<data>
@@ -61,14 +61,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			NETyAVDq9RmsFQJyy4HaLUSquaAtubu1brPNNvFVZUQ=
+			Oq5ClKwJ7mtFkbxgsBr5mY19ryIJ89BqSEkcpGtLmFk=
 			</data>
 		</dict>
 		<key>Modules/PointPubSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			KAnighWAUG9fVDtQkNQqp4NP/0Jqnj1vP0kIQC4hzPE=
+			3UrbA2PKvIXSBaqSDg0ePbJatXuwBvmlKRWF3kTRKUc=
 			</data>
 		</dict>
 		<key>Modules/PointPubSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -82,14 +82,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			KAnighWAUG9fVDtQkNQqp4NP/0Jqnj1vP0kIQC4hzPE=
+			3UrbA2PKvIXSBaqSDg0ePbJatXuwBvmlKRWF3kTRKUc=
 			</data>
 		</dict>
 		<key>Modules/PointPubSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			kjCOHVVFlZZ22MzlrQ24YZ5war/fKTlfShaBkD1Km1I=
+			G0qczTV+iY11eQ2tP4gtbVy5zUoVCCUhmlLT27cTgmQ=
 			</data>
 		</dict>
 		<key>PrivacyInfo.xcprivacy</key>
