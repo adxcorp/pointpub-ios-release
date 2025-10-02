@@ -1,5 +1,10 @@
 # Change log
 
+## Version 1.0.4 (2025/10/02)
+- Config API 개선
+- 네비게이션바 UI 개선
+- 기타 UI 수정
+
 ## Version 1.0.3 (2025/09/25)
 - PointPub SDK UI 수정
 
