@@ -8,6 +8,7 @@ import Combine
 import CoreTelephony
 import DeveloperToolsSupport
 import Foundation
+import PhotosUI
 import Swift
 import SwiftUI
 import SystemConfiguration
@@ -23,9 +24,9 @@ import _Concurrency
 import _StringProcessing
 import _SwiftConcurrencyShims
 import os
-@objc public protocol PointPubDelegate {
-  @objc optional func onOpenOfferwall()
-  @objc optional func onCloseOfferwall()
+@frozen public enum VirtualPointResult {
+  case success(Swift.String, Swift.Int)
+  case fail(Swift.String, Swift.Int)
 }
 @_inheritsConvenienceInitializers @objc final public class PointPub : ObjectiveC.NSObject {
   @objc weak public static var delegate: (any PointPubSDK.PointPubDelegate)?
@@ -45,8 +46,8 @@ import os
   @objc override dynamic public init()
   @objc deinit
 }
-@frozen public enum VirtualPointResult {
-  case success(Swift.String, Swift.Int)
-  case fail(Swift.String, Swift.Int)
+@objc public protocol PointPubDelegate {
+  @objc optional func onOpenOfferwall()
+  @objc optional func onCloseOfferwall()
 }
 extension PointPubSDK.VirtualPointResult : Swift.Sendable {}

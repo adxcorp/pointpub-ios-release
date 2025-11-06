@@ -1,5 +1,9 @@
 # Change log
 
+## Version 2.0.0 (2025/11/06)
+- 이미지 첨부 기능 추가
+- UX/UI 개선
+
 ## Version 1.0.4 (2025/10/02)
 - Config API 개선
 - 네비게이션바 UI 개선
