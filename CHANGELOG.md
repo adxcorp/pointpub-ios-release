@@ -1,5 +1,8 @@
 # Change log
 
+## Version 2.0.1 (2026/01/14)
+- 포스트백의 커스텀 데이터 전송을 위한 메소드 (setCallbackParameter) 추가
+
 ## Version 2.0.1 (2025/12/15)
 - 상태바 컬러 및 네비게이션 오류 수정
 
