@@ -14,15 +14,15 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		3z2mPJ3o9VngyG3h6McUtEqm0GU=
+		XK450jf1GTd9yfsmfHG7D0RolfA=
 		</data>
 		<key>Modules/PointPubSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		BKEv7HWQsHl+HULoN6W1avTzCgE=
+		dh1d9+Qouxd43J0UHTH+RkxiUeQ=
 		</data>
 		<key>Modules/PointPubSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		HQlcIvM2idaJM5RDsuZ3kk1S830=
+		MOMagweycOO/z3pFIXvZGxP0on4=
 		</data>
 		<key>Modules/PointPubSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -30,19 +30,19 @@
 		</data>
 		<key>Modules/PointPubSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		HQlcIvM2idaJM5RDsuZ3kk1S830=
+		MOMagweycOO/z3pFIXvZGxP0on4=
 		</data>
 		<key>Modules/PointPubSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		jS4JJkUp8sSJAapnYaDsFd6xSrs=
+		Q0bAu6OlroZ8Z+2y6SXbjDWSHw4=
 		</data>
 		<key>Modules/PointPubSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		BKEv7HWQsHl+HULoN6W1avTzCgE=
+		dh1d9+Qouxd43J0UHTH+RkxiUeQ=
 		</data>
 		<key>Modules/PointPubSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		qwgUws0JEYLgCvNLRHpIGGg0Rz8=
+		Y/krndnSj0kX4xPXDcZufDv1J1A=
 		</data>
 		<key>Modules/PointPubSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -50,11 +50,11 @@
 		</data>
 		<key>Modules/PointPubSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		qwgUws0JEYLgCvNLRHpIGGg0Rz8=
+		Y/krndnSj0kX4xPXDcZufDv1J1A=
 		</data>
 		<key>Modules/PointPubSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		w4zbrqb1TOFoEPuBASpf/qeoyXw=
+		X+ckEDMb3nT5J7dP0Ybj1DdokQg=
 		</data>
 		<key>PrivacyInfo.xcprivacy</key>
 		<data>
@@ -81,14 +81,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			G+TIrwZilOWk4P5IeOYE1Rn61v11UhmzDhm2QaZc8+g=
+			7sEwPfV8FDusYjrH2TGKY6ZsEVNeTZAGkeGxT4nnt5I=
 			</data>
 		</dict>
 		<key>Modules/PointPubSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			QN4Emd/t3/oL5oZEE6sXeIRtAIvGRJ6HYu+Tp8Y05H8=
+			IYBSvnSc12HnppiX/veyiZoK+3SNVPIPh0edaGIV8ok=
 			</data>
 		</dict>
 		<key>Modules/PointPubSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -102,28 +102,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			QN4Emd/t3/oL5oZEE6sXeIRtAIvGRJ6HYu+Tp8Y05H8=
+			IYBSvnSc12HnppiX/veyiZoK+3SNVPIPh0edaGIV8ok=
 			</data>
 		</dict>
 		<key>Modules/PointPubSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			v5pi7oxw9zvi78R8glcmuxN11vYV9UPDYUwk0FGLOiI=
+			0kU214+fdYd1kk2X3ys6/SYuBLjfiSbN9Fa/jEKhQB8=
 			</data>
 		</dict>
 		<key>Modules/PointPubSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			G+TIrwZilOWk4P5IeOYE1Rn61v11UhmzDhm2QaZc8+g=
+			7sEwPfV8FDusYjrH2TGKY6ZsEVNeTZAGkeGxT4nnt5I=
 			</data>
 		</dict>
 		<key>Modules/PointPubSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ncBfj73t7xoE7kyTZLdMv/jq7GIS427FsJkd2Z2m5mU=
+			obKq1bbpf0EglzvZGxqf/YaHzgbxFQDBkkLn3pAgYBs=
 			</data>
 		</dict>
 		<key>Modules/PointPubSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -137,14 +137,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ncBfj73t7xoE7kyTZLdMv/jq7GIS427FsJkd2Z2m5mU=
+			obKq1bbpf0EglzvZGxqf/YaHzgbxFQDBkkLn3pAgYBs=
 			</data>
 		</dict>
 		<key>Modules/PointPubSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZgfaxbjHzS0+T/iv5VjHrgI6oauRo/roq2NxdR6jyaM=
+			sIMHqvfbk98HbYF37R/FVMUyVTQ+GAxI+/5zB+EiNqs=
 			</data>
 		</dict>
 		<key>PrivacyInfo.xcprivacy</key>
