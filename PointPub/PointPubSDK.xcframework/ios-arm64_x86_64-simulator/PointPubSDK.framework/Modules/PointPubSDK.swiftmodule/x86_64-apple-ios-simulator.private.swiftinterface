@@ -1,7 +1,7 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 6.2.3 effective-5.10 (swiftlang-6.2.3.3.21 clang-1700.6.3.2)
+// swift-compiler-version: Apple Swift version 6.2.4 effective-5.10 (swiftlang-6.2.4.1.4 clang-1700.6.4.2)
 // swift-module-flags: -target x86_64-apple-ios13-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-experimental-feature DebugDescriptionMacro -enable-bare-slash-regex -module-name PointPubSDK
-// swift-module-flags-ignorable: -no-verify-emitted-module-interface -formal-cxx-interoperability-mode=off -interface-compiler-version 6.2.3
+// swift-module-flags-ignorable: -no-verify-emitted-module-interface -formal-cxx-interoperability-mode=off -interface-compiler-version 6.2.4
 import AdSupport
 import AppTrackingTransparency
 import Combine
@@ -9,7 +9,6 @@ import CoreImage
 import CoreTelephony
 import DeveloperToolsSupport
 import Foundation
-import ObjectiveC
 import PhotosUI
 import Swift
 import SwiftUI
@@ -26,7 +25,6 @@ import _Concurrency
 import _StringProcessing
 import _SwiftConcurrencyShims
 import os
-import ObjectiveC.runtime
 @objc public protocol PointPubDelegate {
   @objc optional func onOpenOfferwall()
   @objc optional func onCloseOfferwall()
