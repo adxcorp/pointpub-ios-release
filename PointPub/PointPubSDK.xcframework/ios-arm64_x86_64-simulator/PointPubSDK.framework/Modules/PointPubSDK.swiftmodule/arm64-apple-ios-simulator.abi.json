@@ -2616,38 +2616,10 @@
         "conformances": [
           {
             "kind": "Conformance",
-            "name": "Copyable",
-            "printedName": "Copyable",
-            "usr": "s:s8CopyableP",
-            "mangledName": "$ss8CopyableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Escapable",
-            "printedName": "Escapable",
-            "usr": "s:s9EscapableP",
-            "mangledName": "$ss9EscapableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Equatable",
-            "printedName": "Equatable",
-            "usr": "s:SQ",
-            "mangledName": "$sSQ"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Hashable",
-            "printedName": "Hashable",
-            "usr": "s:SH",
-            "mangledName": "$sSH"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CVarArg",
-            "printedName": "CVarArg",
-            "usr": "s:s7CVarArgP",
-            "mangledName": "$ss7CVarArgP"
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
           },
           {
             "kind": "Conformance",
@@ -2658,10 +2630,24 @@
           },
           {
             "kind": "Conformance",
-            "name": "_KeyValueCodingAndObserving",
-            "printedName": "_KeyValueCodingAndObserving",
-            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
-            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
           },
           {
             "kind": "Conformance",
@@ -2672,10 +2658,24 @@
           },
           {
             "kind": "Conformance",
-            "name": "CustomDebugStringConvertible",
-            "printedName": "CustomDebugStringConvertible",
-            "usr": "s:s28CustomDebugStringConvertibleP",
-            "mangledName": "$ss28CustomDebugStringConvertibleP"
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
           }
         ]
       },
@@ -2736,38 +2736,10 @@
         "conformances": [
           {
             "kind": "Conformance",
-            "name": "Copyable",
-            "printedName": "Copyable",
-            "usr": "s:s8CopyableP",
-            "mangledName": "$ss8CopyableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Escapable",
-            "printedName": "Escapable",
-            "usr": "s:s9EscapableP",
-            "mangledName": "$ss9EscapableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Equatable",
-            "printedName": "Equatable",
-            "usr": "s:SQ",
-            "mangledName": "$sSQ"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Hashable",
-            "printedName": "Hashable",
-            "usr": "s:SH",
-            "mangledName": "$sSH"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CVarArg",
-            "printedName": "CVarArg",
-            "usr": "s:s7CVarArgP",
-            "mangledName": "$ss7CVarArgP"
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
           },
           {
             "kind": "Conformance",
@@ -2778,17 +2750,17 @@
           },
           {
             "kind": "Conformance",
-            "name": "_KeyValueCodingAndObserving",
-            "printedName": "_KeyValueCodingAndObserving",
-            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
-            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
           },
           {
             "kind": "Conformance",
-            "name": "CustomStringConvertible",
-            "printedName": "CustomStringConvertible",
-            "usr": "s:s23CustomStringConvertibleP",
-            "mangledName": "$ss23CustomStringConvertibleP"
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
           },
           {
             "kind": "Conformance",
@@ -2799,17 +2771,31 @@
           },
           {
             "kind": "Conformance",
-            "name": "UITraitChangeObservable",
-            "printedName": "UITraitChangeObservable",
-            "usr": "s:5UIKit23UITraitChangeObservableP",
-            "mangledName": "$s5UIKit23UITraitChangeObservableP"
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
           },
           {
             "kind": "Conformance",
-            "name": "__DefaultCustomPlaygroundQuickLookable",
-            "printedName": "__DefaultCustomPlaygroundQuickLookable",
-            "usr": "s:s38__DefaultCustomPlaygroundQuickLookableP",
-            "mangledName": "$ss38__DefaultCustomPlaygroundQuickLookableP"
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
           },
           {
             "kind": "Conformance",
@@ -2824,6 +2810,20 @@
             "printedName": "SendableMetatype",
             "usr": "s:s16SendableMetatypeP",
             "mangledName": "$ss16SendableMetatypeP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "__DefaultCustomPlaygroundQuickLookable",
+            "printedName": "__DefaultCustomPlaygroundQuickLookable",
+            "usr": "s:s38__DefaultCustomPlaygroundQuickLookableP",
+            "mangledName": "$ss38__DefaultCustomPlaygroundQuickLookableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "UITraitChangeObservable",
+            "printedName": "UITraitChangeObservable",
+            "usr": "s:5UIKit23UITraitChangeObservableP",
+            "mangledName": "$s5UIKit23UITraitChangeObservableP"
           }
         ]
       }
@@ -3829,111 +3829,111 @@
       "filePath": "\/Users\/choiseungmyeong\/Desktop\/PointPub\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/DesignSystem\/Theme\/PPText.swift",
       "kind": "StringLiteral",
       "offset": 4385,
-      "length": 28,
-      "value": "\"개인정보 처리 방침\""
+      "length": 106,
+      "value": "\"개인정보 처리에 관한 자세한 내용은 개인정보 처리방침(LINK)을 참고하십시오.\""
     },
     {
       "filePath": "\/Users\/choiseungmyeong\/Desktop\/PointPub\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/DesignSystem\/Theme\/PPText.swift",
       "kind": "StringLiteral",
-      "offset": 4450,
-      "length": 455,
-      "value": "\"입력하신 정보는 개인정보 처리 방침에 의거하여 내용의 확인 및 답변 외 용도로 사용되지 않습니다.\n\n- 수집 항목 : 이름, 핸드폰 번호, 이메일\n- 수집 목적 : 문의 내역 확인과 답변 처리\n- 활용 기간 : 1년 보관 후 파기\n\n개인 정보 이용 및 수집에 동의 거부시 문의하기를 이용할 수 없습니다.\""
+      "offset": 4528,
+      "length": 486,
+      "value": "\"(주)넵튠은 서비스 관련 문의 및 상담, 불만, 민원처리를 목적으로 귀하의 이름, 이메일, 전화번호, 문의내용을 수집 및 이용합니다. \n개인정보의 보유 및 이용기간: 문의 접수일로부터 3년 \n처리 근거: 개인정보보호법 제15조제1항제4호(계약 이행) \n\n개인정보 처리에 관한 자세한 내용은 개인정보 처리방침(LINK)을 참고하십시오.\""
     },
     {
       "filePath": "\/Users\/choiseungmyeong\/Desktop\/PointPub\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/DesignSystem\/Theme\/PPText.swift",
       "kind": "StringLiteral",
-      "offset": 4946,
+      "offset": 5055,
       "length": 53,
       "value": "\"개인 정보 이용 및 수집에 동의합니다.\""
     },
     {
       "filePath": "\/Users\/choiseungmyeong\/Desktop\/PointPub\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/DesignSystem\/Theme\/PPText.swift",
       "kind": "StringLiteral",
-      "offset": 5027,
+      "offset": 5136,
       "length": 14,
       "value": "\"체크완료\""
     },
     {
       "filePath": "\/Users\/choiseungmyeong\/Desktop\/PointPub\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/DesignSystem\/Theme\/PPText.swift",
       "kind": "StringLiteral",
-      "offset": 5070,
+      "offset": 5179,
       "length": 14,
       "value": "\"문의하기\""
     },
     {
       "filePath": "\/Users\/choiseungmyeong\/Desktop\/PointPub\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/DesignSystem\/Theme\/PPText.swift",
       "kind": "StringLiteral",
-      "offset": 5122,
+      "offset": 5231,
       "length": 41,
       "value": "\"문의 등록이 완료되었습니다.\""
     },
     {
       "filePath": "\/Users\/choiseungmyeong\/Desktop\/PointPub\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/DesignSystem\/Theme\/PPText.swift",
       "kind": "StringLiteral",
-      "offset": 5208,
+      "offset": 5317,
       "length": 35,
       "value": "\"캠페인을 등록해 주세요.\""
     },
     {
       "filePath": "\/Users\/choiseungmyeong\/Desktop\/PointPub\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/DesignSystem\/Theme\/PPText.swift",
       "kind": "StringLiteral",
-      "offset": 5275,
+      "offset": 5384,
       "length": 32,
       "value": "\"이름을 입력해 주세요.\""
     },
     {
       "filePath": "\/Users\/choiseungmyeong\/Desktop\/PointPub\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/DesignSystem\/Theme\/PPText.swift",
       "kind": "StringLiteral",
-      "offset": 5340,
+      "offset": 5449,
       "length": 35,
       "value": "\"이메일을 입력해 주세요.\""
     },
     {
       "filePath": "\/Users\/choiseungmyeong\/Desktop\/PointPub\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/DesignSystem\/Theme\/PPText.swift",
       "kind": "StringLiteral",
-      "offset": 5415,
+      "offset": 5524,
       "length": 45,
       "value": "\"올바른 이메일 형식이 아닙니다.\""
     },
     {
       "filePath": "\/Users\/choiseungmyeong\/Desktop\/PointPub\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/DesignSystem\/Theme\/PPText.swift",
       "kind": "StringLiteral",
-      "offset": 5493,
+      "offset": 5602,
       "length": 42,
       "value": "\"휴대폰 번호를 입력해 주세요.\""
     },
     {
       "filePath": "\/Users\/choiseungmyeong\/Desktop\/PointPub\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/DesignSystem\/Theme\/PPText.swift",
       "kind": "StringLiteral",
-      "offset": 5575,
+      "offset": 5684,
       "length": 52,
       "value": "\"올바른 휴대폰 번호 형식이 아닙니다.\""
     },
     {
       "filePath": "\/Users\/choiseungmyeong\/Desktop\/PointPub\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/DesignSystem\/Theme\/PPText.swift",
       "kind": "StringLiteral",
-      "offset": 5662,
+      "offset": 5771,
       "length": 42,
       "value": "\"문의할 내용을 입력해 주세요.\""
     },
     {
       "filePath": "\/Users\/choiseungmyeong\/Desktop\/PointPub\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/DesignSystem\/Theme\/PPText.swift",
       "kind": "StringLiteral",
-      "offset": 5739,
+      "offset": 5848,
       "length": 46,
       "value": "\"개인 정보 수집에 동의해 주세요.\""
     },
     {
       "filePath": "\/Users\/choiseungmyeong\/Desktop\/PointPub\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/DesignSystem\/Theme\/PPText.swift",
       "kind": "StringLiteral",
-      "offset": 5822,
+      "offset": 5931,
       "length": 51,
       "value": "\"이미지 파일을 불러오지 못했습니다.\""
     },
     {
       "filePath": "\/Users\/choiseungmyeong\/Desktop\/PointPub\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/DesignSystem\/Theme\/PPText.swift",
       "kind": "StringLiteral",
-      "offset": 5910,
+      "offset": 6019,
       "length": 53,
       "value": "\"이미지 총 용량이 10MB를 초과했습니다.\""
     },
@@ -4660,239 +4660,190 @@
     },
     {
       "filePath": "\/Users\/choiseungmyeong\/Desktop\/PointPub\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/CS\/Inquiry\/View\/PPInquiryViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 3702,
+      "length": 129,
+      "value": "\"https:\/\/docs.google.com\/document\/d\/e\/2PACX-1vSOnYrT2e4ZjHs5YiTqksa4OQItoDx0rYM2SYmatjiXsq3I37luADW3W3ZQL5KYCT8u0Ycp_2SNyono\/pub\""
+    },
+    {
+      "filePath": "\/Users\/choiseungmyeong\/Desktop\/PointPub\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/CS\/Inquiry\/View\/PPInquiryViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 3555,
+      "offset": 4011,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/choiseungmyeong\/Desktop\/PointPub\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/CS\/Inquiry\/View\/PPInquiryViewController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 3601,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/choiseungmyeong\/Desktop\/PointPub\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/CS\/Inquiry\/View\/PPInquiryViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 3780,
+      "offset": 4229,
       "length": 2,
-      "value": "22"
+      "value": "13"
     },
     {
       "filePath": "\/Users\/choiseungmyeong\/Desktop\/PointPub\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/CS\/Inquiry\/View\/PPInquiryViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 3865,
-      "length": 2,
-      "value": "22"
-    },
-    {
-      "filePath": "\/Users\/choiseungmyeong\/Desktop\/PointPub\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/CS\/Inquiry\/View\/PPInquiryViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 3938,
-      "length": 2,
-      "value": "22"
-    },
-    {
-      "filePath": "\/Users\/choiseungmyeong\/Desktop\/PointPub\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/CS\/Inquiry\/View\/PPInquiryViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 4220,
+      "offset": 4369,
       "length": 1,
-      "value": "8"
-    },
-    {
-      "filePath": "\/Users\/choiseungmyeong\/Desktop\/PointPub\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/CS\/Inquiry\/View\/PPInquiryViewController.swift",
-      "kind": "StringLiteral",
-      "offset": 4428,
-      "length": 20,
-      "value": "\"icon_privacy_check\""
+      "value": "0"
     },
     {
       "filePath": "\/Users\/choiseungmyeong\/Desktop\/PointPub\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/CS\/Inquiry\/View\/PPInquiryViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 4564,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/choiseungmyeong\/Desktop\/PointPub\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/CS\/Inquiry\/View\/PPInquiryViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 4795,
-      "length": 2,
-      "value": "11"
-    },
-    {
-      "filePath": "\/Users\/choiseungmyeong\/Desktop\/PointPub\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/CS\/Inquiry\/View\/PPInquiryViewController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 4829,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/choiseungmyeong\/Desktop\/PointPub\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/CS\/Inquiry\/View\/PPInquiryViewController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 5026,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/choiseungmyeong\/Desktop\/PointPub\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/CS\/Inquiry\/View\/PPInquiryViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 5107,
-      "length": 2,
-      "value": "13"
-    },
-    {
-      "filePath": "\/Users\/choiseungmyeong\/Desktop\/PointPub\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/CS\/Inquiry\/View\/PPInquiryViewController.swift",
-      "kind": "StringLiteral",
-      "offset": 5685,
-      "length": 39,
-      "value": "\"https:\/\/adm.pointpub.kr\/f\/privacy.pdf\""
-    },
-    {
-      "filePath": "\/Users\/choiseungmyeong\/Desktop\/PointPub\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/CS\/Inquiry\/View\/PPInquiryViewController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 5904,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/choiseungmyeong\/Desktop\/PointPub\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/CS\/Inquiry\/View\/PPInquiryViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 6122,
-      "length": 2,
-      "value": "13"
-    },
-    {
-      "filePath": "\/Users\/choiseungmyeong\/Desktop\/PointPub\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/CS\/Inquiry\/View\/PPInquiryViewController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 6268,
+      "offset": 4474,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/choiseungmyeong\/Desktop\/PointPub\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/CS\/Inquiry\/View\/PPInquiryViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 6507,
+      "offset": 4713,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/choiseungmyeong\/Desktop\/PointPub\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/CS\/Inquiry\/View\/PPInquiryViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 7471,
+      "offset": 5611,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/choiseungmyeong\/Desktop\/PointPub\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/CS\/Inquiry\/View\/PPInquiryViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 7536,
+      "offset": 5676,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/choiseungmyeong\/Desktop\/PointPub\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/CS\/Inquiry\/View\/PPInquiryViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 7715,
+      "offset": 5855,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/choiseungmyeong\/Desktop\/PointPub\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/CS\/Inquiry\/View\/PPInquiryViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 7773,
+      "offset": 5913,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/choiseungmyeong\/Desktop\/PointPub\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/CS\/Inquiry\/View\/PPInquiryViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 7842,
+      "offset": 5982,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/choiseungmyeong\/Desktop\/PointPub\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/CS\/Inquiry\/View\/PPInquiryViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 8069,
+      "offset": 6209,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/choiseungmyeong\/Desktop\/PointPub\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/CS\/Inquiry\/View\/PPInquiryViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 8136,
+      "offset": 6276,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/choiseungmyeong\/Desktop\/PointPub\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/CS\/Inquiry\/ViewModel\/PPInquiryViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 1272,
+      "offset": 1266,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/choiseungmyeong\/Desktop\/PointPub\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/CS\/Inquiry\/ViewModel\/PPInquiryViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 1308,
+      "offset": 1302,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/choiseungmyeong\/Desktop\/PointPub\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/CS\/Inquiry\/ViewModel\/PPInquiryViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 1355,
+      "offset": 1349,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/choiseungmyeong\/Desktop\/PointPub\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/CS\/Inquiry\/ViewModel\/PPInquiryViewModel.swift",
       "kind": "Array",
-      "offset": 1438,
+      "offset": 1432,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/choiseungmyeong\/Desktop\/PointPub\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/CS\/Inquiry\/ViewModel\/PPInquiryViewModel.swift",
       "kind": "Array",
-      "offset": 1479,
+      "offset": 1473,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/choiseungmyeong\/Desktop\/PointPub\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/CS\/Inquiry\/ViewModel\/PPInquiryViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 1555,
+      "offset": 1549,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/choiseungmyeong\/Desktop\/PointPub\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/CS\/Inquiry\/ViewModel\/PPInquiryViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 13187,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/choiseungmyeong\/Desktop\/PointPub\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/CS\/Inquiry\/ViewModel\/PPInquiryViewModel.swift",
-      "kind": "BooleanLiteral",
-      "offset": 13364,
+      "offset": 12596,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/choiseungmyeong\/Desktop\/PointPub\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/CS\/Inquiry\/ViewModel\/PPInquiryViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 13507,
+      "offset": 12739,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/choiseungmyeong\/Desktop\/PointPub\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/CS\/Inquiry\/ViewModel\/PPInquiryViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 13673,
+      "offset": 12905,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/choiseungmyeong\/Desktop\/PointPub\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/CS\/Inquiry\/ViewModel\/PPInquiryViewModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 13049,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/choiseungmyeong\/Desktop\/PointPub\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/CS\/Inquiry\/ViewModel\/PPInquiryViewModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 13282,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/choiseungmyeong\/Desktop\/PointPub\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/CS\/Inquiry\/ViewModel\/PPInquiryViewModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 13425,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/choiseungmyeong\/Desktop\/PointPub\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/CS\/Inquiry\/ViewModel\/PPInquiryViewModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 13572,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/choiseungmyeong\/Desktop\/PointPub\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/CS\/Inquiry\/ViewModel\/PPInquiryViewModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 13715,
       "length": 5,
       "value": "false"
     },
@@ -4900,41 +4851,6 @@
       "filePath": "\/Users\/choiseungmyeong\/Desktop\/PointPub\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/CS\/Inquiry\/ViewModel\/PPInquiryViewModel.swift",
       "kind": "BooleanLiteral",
       "offset": 13817,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/choiseungmyeong\/Desktop\/PointPub\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/CS\/Inquiry\/ViewModel\/PPInquiryViewModel.swift",
-      "kind": "BooleanLiteral",
-      "offset": 14050,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/choiseungmyeong\/Desktop\/PointPub\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/CS\/Inquiry\/ViewModel\/PPInquiryViewModel.swift",
-      "kind": "BooleanLiteral",
-      "offset": 14193,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/choiseungmyeong\/Desktop\/PointPub\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/CS\/Inquiry\/ViewModel\/PPInquiryViewModel.swift",
-      "kind": "BooleanLiteral",
-      "offset": 14340,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/choiseungmyeong\/Desktop\/PointPub\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/CS\/Inquiry\/ViewModel\/PPInquiryViewModel.swift",
-      "kind": "BooleanLiteral",
-      "offset": 14483,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/choiseungmyeong\/Desktop\/PointPub\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/CS\/Inquiry\/ViewModel\/PPInquiryViewModel.swift",
-      "kind": "BooleanLiteral",
-      "offset": 14585,
       "length": 4,
       "value": "true"
     },
@@ -6754,14 +6670,14 @@
     {
       "filePath": "\/Users\/choiseungmyeong\/Desktop\/PointPub\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/RemoteRepository\/CS\/Model\/InputField.swift",
       "kind": "StringLiteral",
-      "offset": 501,
+      "offset": 483,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/choiseungmyeong\/Desktop\/PointPub\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/RemoteRepository\/CS\/Model\/InputField.swift",
       "kind": "StringLiteral",
-      "offset": 538,
+      "offset": 520,
       "length": 2,
       "value": "\"\""
     },
